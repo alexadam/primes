@@ -1,0 +1,3 @@
+Generates a picture with prime numbers. 
+
+If (pixel.y * image.width + pixel.x) is a prime number -> pixel.color = black
